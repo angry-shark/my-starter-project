@@ -10,7 +10,8 @@ There is also a [getting started tutorial](https://vaadin.com/docs/v10/flow/intr
 
 To access it directly from github, clone the repository and import the project to the IDE of your choice as a Maven project. You need to have Java 8 installed.
 
-Run using `mvn jetty:run` and open [http://localhost:8080](http://localhost:8080) in browser.
+Run using `mvn jetty:run` and open [http://localhost:8080](http://localhost:8889) in browser.
+The test accounts are : 00128,12345
 
 For a full Vaadin Flow application example, there is the Beverage Buddy App Starter for Flow available also from [vaadin.com/start](https://vaadin.com/start) page.
 
