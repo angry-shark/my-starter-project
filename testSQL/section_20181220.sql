@@ -1,0 +1,16 @@
+INSERT INTO `section` (`course_id`, `sec_id`, `semester`, `year`, `building`, `room_number`, `time_slot_id`) VALUES ('BIO-101', '1', 'Summer', 2009, 'Painter', '514', 'B');
+INSERT INTO `section` (`course_id`, `sec_id`, `semester`, `year`, `building`, `room_number`, `time_slot_id`) VALUES ('BIO-301', '1', 'Summer', 2010, 'Painter', '514', 'A');
+INSERT INTO `section` (`course_id`, `sec_id`, `semester`, `year`, `building`, `room_number`, `time_slot_id`) VALUES ('BIO-399', '1', 'Summer', 2009, 'Painter', '514', 'C');
+INSERT INTO `section` (`course_id`, `sec_id`, `semester`, `year`, `building`, `room_number`, `time_slot_id`) VALUES ('CS-101', '1', 'Fall', 2009, 'Packard', '101', 'H');
+INSERT INTO `section` (`course_id`, `sec_id`, `semester`, `year`, `building`, `room_number`, `time_slot_id`) VALUES ('CS-101', '1', 'Spring', 2010, 'Packard', '101', 'F');
+INSERT INTO `section` (`course_id`, `sec_id`, `semester`, `year`, `building`, `room_number`, `time_slot_id`) VALUES ('CS-190', '1', 'Spring', 2009, 'Taylor', '3128', 'E');
+INSERT INTO `section` (`course_id`, `sec_id`, `semester`, `year`, `building`, `room_number`, `time_slot_id`) VALUES ('CS-190', '2', 'Spring', 2009, 'Taylor', '3128', 'A');
+INSERT INTO `section` (`course_id`, `sec_id`, `semester`, `year`, `building`, `room_number`, `time_slot_id`) VALUES ('CS-315', '1', 'Spring', 2010, 'Watson', '120', 'D');
+INSERT INTO `section` (`course_id`, `sec_id`, `semester`, `year`, `building`, `room_number`, `time_slot_id`) VALUES ('CS-319', '1', 'Spring', 2010, 'Watson', '100', 'B');
+INSERT INTO `section` (`course_id`, `sec_id`, `semester`, `year`, `building`, `room_number`, `time_slot_id`) VALUES ('CS-319', '2', 'Spring', 2010, 'Taylor', '3128', 'C');
+INSERT INTO `section` (`course_id`, `sec_id`, `semester`, `year`, `building`, `room_number`, `time_slot_id`) VALUES ('CS-347', '1', 'Fall', 2009, 'Taylor', '3128', 'A');
+INSERT INTO `section` (`course_id`, `sec_id`, `semester`, `year`, `building`, `room_number`, `time_slot_id`) VALUES ('EE-181', '1', 'Spring', 2009, 'Taylor', '3128', 'C');
+INSERT INTO `section` (`course_id`, `sec_id`, `semester`, `year`, `building`, `room_number`, `time_slot_id`) VALUES ('FIN-201', '1', 'Spring', 2010, 'Packard', '101', 'B');
+INSERT INTO `section` (`course_id`, `sec_id`, `semester`, `year`, `building`, `room_number`, `time_slot_id`) VALUES ('HIS-351', '1', 'Spring', 2010, 'Painter', '514', 'C');
+INSERT INTO `section` (`course_id`, `sec_id`, `semester`, `year`, `building`, `room_number`, `time_slot_id`) VALUES ('MU-199', '1', 'Spring', 2010, 'Packard', '101', 'D');
+INSERT INTO `section` (`course_id`, `sec_id`, `semester`, `year`, `building`, `room_number`, `time_slot_id`) VALUES ('PHY-101', '1', 'Fall', 2009, 'Watson', '100', 'A');

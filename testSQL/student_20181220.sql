@@ -1,0 +1,13 @@
+INSERT INTO `student` (`ID`, `name`, `dept_name`, `tot_cred`) VALUES ('00128', 'Zhang', 'Comp. Sci.', 102);
+INSERT INTO `student` (`ID`, `name`, `dept_name`, `tot_cred`) VALUES ('12345', 'Shankar', 'Comp. Sci.', 32);
+INSERT INTO `student` (`ID`, `name`, `dept_name`, `tot_cred`) VALUES ('19991', 'Brandt', 'History', 80);
+INSERT INTO `student` (`ID`, `name`, `dept_name`, `tot_cred`) VALUES ('23121', 'Chavez', 'Finance', 110);
+INSERT INTO `student` (`ID`, `name`, `dept_name`, `tot_cred`) VALUES ('44553', 'Peltier', 'Physics', 56);
+INSERT INTO `student` (`ID`, `name`, `dept_name`, `tot_cred`) VALUES ('45678', 'Levy', 'Physics', 46);
+INSERT INTO `student` (`ID`, `name`, `dept_name`, `tot_cred`) VALUES ('54321', 'Williams', 'Comp. Sci.', 54);
+INSERT INTO `student` (`ID`, `name`, `dept_name`, `tot_cred`) VALUES ('55739', 'Sanchez', 'Music', 38);
+INSERT INTO `student` (`ID`, `name`, `dept_name`, `tot_cred`) VALUES ('70557', 'Snow', 'Physics', 0);
+INSERT INTO `student` (`ID`, `name`, `dept_name`, `tot_cred`) VALUES ('76543', 'Brown', 'Comp. Sci.', 58);
+INSERT INTO `student` (`ID`, `name`, `dept_name`, `tot_cred`) VALUES ('76653', 'Aoi', 'Elec. Eng.', 60);
+INSERT INTO `student` (`ID`, `name`, `dept_name`, `tot_cred`) VALUES ('98765', 'Bourikas', 'Elec. Eng.', 98);
+INSERT INTO `student` (`ID`, `name`, `dept_name`, `tot_cred`) VALUES ('98988', 'Tanaka', 'Biology', 120);

@@ -1,0 +1,15 @@
+INSERT INTO `teaches` (`ID`, `course_id`, `sec_id`, `semester`, `year`) VALUES ('76766', 'BIO-101', '1', 'Summer', 2009);
+INSERT INTO `teaches` (`ID`, `course_id`, `sec_id`, `semester`, `year`) VALUES ('76766', 'BIO-301', '1', 'Summer', 2010);
+INSERT INTO `teaches` (`ID`, `course_id`, `sec_id`, `semester`, `year`) VALUES ('10101', 'CS-101', '1', 'Fall', 2009);
+INSERT INTO `teaches` (`ID`, `course_id`, `sec_id`, `semester`, `year`) VALUES ('45565', 'CS-101', '1', 'Spring', 2010);
+INSERT INTO `teaches` (`ID`, `course_id`, `sec_id`, `semester`, `year`) VALUES ('83821', 'CS-190', '1', 'Spring', 2009);
+INSERT INTO `teaches` (`ID`, `course_id`, `sec_id`, `semester`, `year`) VALUES ('83821', 'CS-190', '2', 'Spring', 2009);
+INSERT INTO `teaches` (`ID`, `course_id`, `sec_id`, `semester`, `year`) VALUES ('10101', 'CS-315', '1', 'Spring', 2010);
+INSERT INTO `teaches` (`ID`, `course_id`, `sec_id`, `semester`, `year`) VALUES ('45565', 'CS-319', '1', 'Spring', 2010);
+INSERT INTO `teaches` (`ID`, `course_id`, `sec_id`, `semester`, `year`) VALUES ('83821', 'CS-319', '2', 'Spring', 2010);
+INSERT INTO `teaches` (`ID`, `course_id`, `sec_id`, `semester`, `year`) VALUES ('10101', 'CS-347', '1', 'Fall', 2009);
+INSERT INTO `teaches` (`ID`, `course_id`, `sec_id`, `semester`, `year`) VALUES ('98345', 'EE-181', '1', 'Spring', 2009);
+INSERT INTO `teaches` (`ID`, `course_id`, `sec_id`, `semester`, `year`) VALUES ('12121', 'FIN-201', '1', 'Spring', 2010);
+INSERT INTO `teaches` (`ID`, `course_id`, `sec_id`, `semester`, `year`) VALUES ('32343', 'HIS-351', '1', 'Spring', 2010);
+INSERT INTO `teaches` (`ID`, `course_id`, `sec_id`, `semester`, `year`) VALUES ('15151', 'MU-199', '1', 'Spring', 2010);
+INSERT INTO `teaches` (`ID`, `course_id`, `sec_id`, `semester`, `year`) VALUES ('22222', 'PHY-101', '1', 'Fall', 2009);
